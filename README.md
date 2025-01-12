@@ -14,7 +14,7 @@ A Python script that generates a GitHub contribution graph by creating backdated
 
 ## ⚠️ Disclaimer
 
-It is not meant for cheating. But if others are judging you based on your github contributions, then you then deserve to see you rich github profile.
+It is not meant for cheating. But if others are judging you based on your github contributions, then they deserve to see your rich github profile.
 
 ## Features
 
